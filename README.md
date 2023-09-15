@@ -1,16 +1,13 @@
-### Hi there 👋
+**Guilherme**
 
-<!--
-**GuilhermeGaldinoFerreira/GuilhermeGaldinoFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PR/043
 
-Here are some ideas to get you started:
+faço aula de *pensamento computacional*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+faço trabalhos e tarefas na plataforma [alura](alura.com.br)
+
+**PALMEIRAS** *né pai*
+
+![](https://media.tenor.com/xbzNsk1xsQoAAAAd/nal-do-canal.gif)
+
+*SEGUE LÁ* @guixzz
