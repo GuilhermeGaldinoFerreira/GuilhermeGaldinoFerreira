@@ -10,4 +10,4 @@ faço trabalhos e tarefas na plataforma [alura](alura.com.br)
 
 ![](https://media.tenor.com/xbzNsk1xsQoAAAAd/nal-do-canal.gif)
 
-*SEGUE LÁ* @guixzz
+*SEGUE LÁ* @guixzz.f
